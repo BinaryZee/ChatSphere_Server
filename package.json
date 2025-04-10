@@ -4,7 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "server": "node ./index.js"
+    "start": "node ./index.js",
+    "server": "node ./index.js",
+    "build": "echo 'Build not required for basic Node.js project'"
   },
   "keywords": [],
   "author": "",
